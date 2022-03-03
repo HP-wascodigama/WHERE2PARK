@@ -8,7 +8,7 @@ The team includes:
 2. Shrey Patel
 3. Bhakti Rana
 4. Nishant Bharat
-5. Himanshu Prajapati
+5. Himanshu Prajapat
 6. Chanchal Gautam
 7. Anand Patel
 8. Sohil Khan
